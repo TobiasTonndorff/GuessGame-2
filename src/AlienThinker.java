@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-
-
-public class AlienThinker  {
-
-  
-}
-=======
 public class AlienThinker implements IThinker{
-
     @Override
     public void yourTurn() {
         
@@ -33,4 +24,3 @@ public class AlienThinker implements IThinker{
         return false;
     }
 }
->>>>>>> AlienThinker
