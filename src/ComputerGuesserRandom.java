@@ -11,6 +11,9 @@ public class ComputerGuesserRandom implements IGuesser {
     {
         return "Computer guesser";
     }
+    public void hallihalløj(){
+        System.out.println("test");
+    }
 
     public void newGame(int min, int max, String opponent, String type)
     {
