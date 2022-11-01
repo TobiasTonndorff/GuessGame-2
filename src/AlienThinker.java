@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 public class AlienThinker  {
@@ -32,3 +33,4 @@ public class AlienThinker implements IThinker{
         return false;
     }
 }
+>>>>>>> AlienThinker
